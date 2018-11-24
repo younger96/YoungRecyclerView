@@ -1,4 +1,4 @@
-package com.example.a47420.youngrecyclerview;
+package com.example.a47420.youngrecyclerview.multi;
 
 import android.graphics.Rect;
 import android.support.v7.widget.GridLayoutManager;

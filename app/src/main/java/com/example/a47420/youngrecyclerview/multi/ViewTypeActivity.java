@@ -1,4 +1,4 @@
-package com.example.a47420.youngrecyclerview;
+package com.example.a47420.youngrecyclerview.multi;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -9,6 +9,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import com.example.a47420.youngrecyclerview.R;
 
 import java.util.ArrayList;
 import java.util.List;
