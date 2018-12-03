@@ -1,8 +1,7 @@
 package com.example.a47420.youngrecyclerview.common;
 
 
-public interface ItemViewDelegate<T>
-{
+public interface ItemViewDelegate<T> {
 
     int getItemViewLayoutId();
 
